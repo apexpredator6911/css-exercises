@@ -1,0 +1,20 @@
+.pierwsza,
+.druga {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.druga {
+    font-size: 24px;
+}
+
+#pierwsze {
+    color: blue;
+    font-size: 36px;
+}
+
+#drugie {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
